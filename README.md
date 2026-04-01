@@ -185,8 +185,8 @@ The research responds to the explicit policy recommendation in Li et al. (2026):
 
 ## Contact
 
-Maintained by: [Your Name]  
-Institution: [Your School], [City], China  
-Correspondence: [your.email@example.com]  
+Maintained by: DANG HAOSHENG  
+Institution: RCF Experimental school, Beijing, China  
+Correspondence: danghaosheng2028@gmail.com 
 
 *Last updated: April 2026*
